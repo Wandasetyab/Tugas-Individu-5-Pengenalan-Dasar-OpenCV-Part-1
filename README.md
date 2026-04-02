@@ -1,0 +1,1 @@
+# Tugas-Individu-5-Pengenalan-Dasar-OpenCV-Part-1
